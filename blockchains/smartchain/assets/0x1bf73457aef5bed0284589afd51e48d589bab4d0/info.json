@@ -1,0 +1,13 @@
+{
+  "name": "SAWAC Token",
+  "symbol": "SAWAC",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "SAWAC is a DeFi token backed by the real-world coconut wellness economy — enabling staking, yield, and sustainable growth through MCT-based product demand.",
+  "website": "https://token.sawa-coco.com",
+  "explorer": "https://bscscan.com/token/0x1bf73457aef5bed0284589afd51e48d589bab4d0",
+  "status": "active",
+  "id": "0x1bf73457aef5bed0284589afd51e48d589bab4d0",
+  "telegram": "https://t.me/SawacTokenCommunity",
+  "twitter": "https://x.com/SAWACtoken"
+}
